@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>icc1-archetype</name>
+      <prefix>icc1-archetype</prefix>
+      <artifactId>icc1-archetype</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
