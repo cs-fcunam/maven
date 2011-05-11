@@ -8,6 +8,7 @@
       <artifactId>icc1-archetype</artifactId>
       <version>1.0-SNAPSHOT</version>
       <description>icc1-archetype</description>
+      <repository>https://github.com/cs-fcunam/maven/raw/master/snapshots</repository>
     </archetype>
   </archetypes>
 </archetype-catalog>
